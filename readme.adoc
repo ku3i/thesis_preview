@@ -3,7 +3,7 @@ Doc Writer <kubisch@informatik.hu-berlin.de>
 
 :toc:
 :toc-placement!:
-:toc-title: Table of Adventures
+
 :imagesdir: ./img/
 :linkattrs:
 :numbered:
@@ -19,8 +19,6 @@ endif::[]
 
 image::./walking_fw_f_fourlegged.jpg[]
 
-toc::[]
-
 Author: _Matthias Kubisch_
 
 Title: _Towards self-supervised locomotion learning for legged autonomous robots_
@@ -28,8 +26,9 @@ Title: _Towards self-supervised locomotion learning for legged autonomous robots
 Last updated: _23-11-2020_
 
 == Chapters
-Here you can find the most recent version of each chapter.
+Here you can find the most recent versions of each chapter. Whenever a new version is released, I'll add a _diff_ to the last version, so that anyone can track the changes more easily.
 
+=== Table of Adventures
 * Chapter 0 - Introduction
 
 *Part I* -- _A baseline behavior library of evolved gait controllers_
@@ -54,5 +53,5 @@ Here you can find the most recent version of each chapter.
 == Appendix
 Here you can find the most recent table of contents (TOC) and other appendices such as the bibliography section.
 
-* link:./chapter/kubisch_thesis_A_toc_ver0.pdf[Table of Contents]
-* link:./chapter/kubisch_thesis_B_bib_ver0.pdf[Bibliography]
+* link:./appendix/kubisch_thesis_A_toc_ver0.pdf[Table of Contents]
+* link:./appendix/kubisch_thesis_B_bib_ver0.pdf[Bibliography]
