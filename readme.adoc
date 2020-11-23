@@ -1,0 +1,58 @@
+=  Thesis Preview
+Doc Writer <kubisch@informatik.hu-berlin.de>
+
+:toc:
+:toc-placement!:
+:toc-title: Table of Adventures
+:imagesdir: ./img/
+:linkattrs:
+:numbered:
+:numbered!:
+
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+image::./walking_fw_f_fourlegged.jpg[]
+
+toc::[]
+
+Author: _Matthias Kubisch_
+
+Title: _Towards self-supervised locomotion learning for legged autonomous robots_
+
+Last updated: _23-11-2020_
+
+== Chapters
+Here you can find the most recent version of each chapter.
+
+* Chapter 0 - Introduction
+
+*Part I* -- _A baseline behavior library of evolved gait controllers_
+
+* link:./chapter/kubisch_thesis_1_control_ver0.pdf[Chapter 1 - Control Architecture]
+* Chapter 2 - Simulated Environment and Robots
+* Chapter 3 - A Baseline Behavior Library
+
+*Part II* -- _Hannah: An open-source fourlegged robotic platform for research and development_
+
+* Chapter 4 - Mechanical Design
+* Chapter 5 - Electronics, Communication and Control
+* Chapter 6 - Bridging the Reality Gap
+
+*Part III* -- _Proposal of an architecture for unsupervised robot locomotion learning_
+
+* Chapter 7 - Model and Hyptotheses
+* Chapter 8 - Methods
+* Chapter 9 - Implementation of a Self-Supervised Sensorimotor Learning Agent
+* Chapter A - Experiments and Results
+
+== Appendix
+Here you can find the most recent table of contents (TOC) and other appendices such as the bibliography section.
+
+* link:./chapter/kubisch_thesis_A_toc_ver0.pdf[Table of Contents]
+* link:./chapter/kubisch_thesis_B_bib_ver0.pdf[Bibliography]
