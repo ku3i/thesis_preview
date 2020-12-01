@@ -34,7 +34,7 @@ Here you can find the most recent versions of each chapter. Whenever a new versi
 *Part I* -- _A baseline behavior library of evolved gait controllers_
 
 * link:./chapter/kubisch_thesis_1_control_ver0.pdf[Chapter 1 - Control Architecture]
-* Chapter 2 - Simulated Environment and Robots
+* link:./chapter/kubisch_thesis_2_simulation_ver0.pdf[Chapter 2 - Simulated Environment and Robots]
 * Chapter 3 - A Baseline Behavior Library
 
 *Part II* -- _Hannah: An open-source fourlegged robotic platform for research and development_
