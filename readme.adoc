@@ -23,7 +23,7 @@ Author: _Matthias Kubisch_
 
 Title: _Towards self-supervised locomotion learning for legged autonomous robots_
 
-Last updated: _23-11-2020_
+Last updated: _1-12-2020_
 
 == Chapters
 Here you can find the most recent versions of each chapter. Whenever a new version is released, I'll add a _diff_ to the last version, so that anyone can track the changes more easily.
